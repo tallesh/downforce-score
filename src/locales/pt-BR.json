@@ -1,0 +1,111 @@
+{
+  "home": {
+    "title": "Downforce - Placar Digital",
+    "subtitle": "Placar Digital Odds Betting",
+    "createRoom": "Criar Sala",
+    "joinRoom": "Entrar na Sala"
+  },
+  "create": {
+    "title": "Criar Nova Sala",
+    "yourName": "Seu Nome",
+    "namePlaceholder": "Digite seu nome",
+    "createButton": "Criar Sala",
+    "roomCode": "Código da Sala"
+  },
+  "join": {
+    "title": "Entrar na Sala",
+    "roomCode": "Código da Sala",
+    "codePlaceholder": "Digite o código de 4 dígitos",
+    "yourName": "Seu Nome",
+    "namePlaceholder": "Digite seu nome",
+    "joinButton": "Entrar"
+  },
+  "auction": {
+    "title": "Leilão",
+    "selectCar": "Selecione um Carro",
+    "selectBid": "Selecione seu Lance",
+    "release": "Liberar",
+    "currentAssignments": "Atribuições Atuais",
+    "available": "Disponível",
+    "manualOverride": "Substituição Manual",
+    "hideManual": "Ocultar Manual",
+    "applyChanges": "Aplicar Alterações",
+    "startBetting": "Iniciar Fase de Apostas",
+    "noOwner": "Sem dono"
+  },
+  "betting": {
+    "title": "Apostar",
+    "line1": "Linha de Aposta 1",
+    "line2": "Linha de Aposta 2",
+    "line3": "Linha de Aposta 3",
+    "setPositions": "Definir Posições",
+    "placeBet": "Faça sua Aposta",
+    "clickCar": "Clique em um carro para apostar",
+    "betSubmitted": "✓ Aposta enviada!",
+    "waitingPlayers": "Aguardando outros jogadores...",
+    "allReady": "✓ Todos prontos! Aguardando anfitrião...",
+    "waitingHost": "⏳ Aguardando anfitrião definir posições...",
+    "waitingAllBets": "⏳ Aguardando todos os jogadores apostarem...",
+    "nextLine": "Próxima Linha de Aposta",
+    "goNext": "Ir para Próxima Fase",
+    "allowBetting": "Definir Posições (Permitir Apostas)",
+    "yourBet": "Sua Aposta"
+  },
+  "final": {
+    "title": "Definir Posições Finais da Corrida",
+    "waitingBets": "⏳ Aguardando todos os jogadores fazerem suas apostas finais...",
+    "finishRace": "Finalizar Corrida e Mostrar Resultados"
+  },
+  "results": {
+    "title": "🏁 Resultados Finais",
+    "racing": "Corrida",
+    "betting": "Apostas",
+    "auction": "Leilão",
+    "allBets": "Todas as Apostas Reveladas",
+    "detailedBreakdown": "Detalhamento",
+    "auctionCost": "Leilão (Custo)",
+    "racingPrize": "Corrida (Prêmio)",
+    "bettingPayouts": "Apostas (Pagamentos)",
+    "formula": "Fórmula: (Posição na Aposta) × (Multiplicador de Chegada)",
+    "multipliers": "Multiplicadores - Aposta1: 1º=×3, 2º=×2, 3º=×1 | Aposta2: 1º=×2, 2º=×1, 3º=×0 | Aposta3: 1º=×1, 2º/3º=×0",
+    "total": "Total",
+    "final": "Final",
+    "noBet": "Sem aposta"
+  },
+  "players": {
+    "title": "Jogadores",
+    "host": "Anfitrião",
+    "hasBet": "✓ Apostou",
+    "pending": "⏳ Pendente"
+  },
+  "cars": {
+    "black": "Preto",
+    "blue": "Azul",
+    "green": "Verde",
+    "orange": "Laranja",
+    "red": "Vermelho",
+    "yellow": "Amarelo"
+  },
+  "common": {
+    "price": "Preço",
+    "position": "Posição",
+    "bet": "Aposta",
+    "finished": "terminou",
+    "at": "em",
+    "pos": "pos"
+  },
+  "room": {
+    "roomCode": "Código da Sala",
+    "leave": "Sair",
+    "phase": "Fase",
+    "youAreHost": "⭐ Você é o anfitrião",
+    "loading": "Carregando sala..."
+  },
+  "phases": {
+    "auction": "LEILÃO",
+    "betting1": "APOSTA 1",
+    "betting2": "APOSTA 2",
+    "betting3": "APOSTA 3",
+    "finished": "FINALIZADO"
+  }
+}

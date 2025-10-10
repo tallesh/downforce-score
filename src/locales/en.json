@@ -1,0 +1,111 @@
+{
+  "home": {
+    "title": "Downforce - Digital Scoresheet",
+    "subtitle": "Odds Betting Scoresheet",
+    "createRoom": "Create Room",
+    "joinRoom": "Join Room"
+  },
+  "create": {
+    "title": "Create New Room",
+    "yourName": "Your Name",
+    "namePlaceholder": "Enter your name",
+    "createButton": "Create Room",
+    "roomCode": "Room Code"
+  },
+  "join": {
+    "title": "Join Room",
+    "roomCode": "Room Code",
+    "codePlaceholder": "Enter 4-digit code",
+    "yourName": "Your Name",
+    "namePlaceholder": "Enter your name",
+    "joinButton": "Join"
+  },
+  "auction": {
+    "title": "Auction",
+    "selectCar": "Select a Car",
+    "selectBid": "Select Your Bid",
+    "release": "Release",
+    "currentAssignments": "Current Assignments",
+    "available": "Available",
+    "manualOverride": "Manual Override",
+    "hideManual": "Hide Manual",
+    "applyChanges": "Apply Manual Changes",
+    "startBetting": "Start Betting Phase",
+    "noOwner": "No owner"
+  },
+  "betting": {
+    "title": "Betting",
+    "line1": "Betting Line 1",
+    "line2": "Betting Line 2",
+    "line3": "Betting Line 3",
+    "setPositions": "Set Positions",
+    "placeBet": "Place Your Bet",
+    "clickCar": "Click on a car to place your bet",
+    "betSubmitted": "✓ Bet submitted!",
+    "waitingPlayers": "Waiting for other players...",
+    "allReady": "✓ All players ready! Waiting for host...",
+    "waitingHost": "⏳ Waiting for host to set positions...",
+    "waitingAllBets": "⏳ Waiting for all players to place their bets...",
+    "nextLine": "Next Betting Line",
+    "goNext": "Go to Next Phase",
+    "allowBetting": "Set Positions (Allow Betting)",
+    "yourBet": "Your Bet"
+  },
+  "final": {
+    "title": "Set Final Race Positions",
+    "waitingBets": "⏳ Waiting for all players to place their final bets...",
+    "finishRace": "Finish Race & Show Results"
+  },
+  "results": {
+    "title": "🏁 Final Results",
+    "racing": "Racing",
+    "betting": "Betting",
+    "auction": "Auction",
+    "allBets": "All Bets Revealed",
+    "detailedBreakdown": "Detailed Breakdown",
+    "auctionCost": "Auction (Cost)",
+    "racingPrize": "Racing (Prize Money)",
+    "bettingPayouts": "Betting (Odds Payouts)",
+    "formula": "Formula: (Position at Bet Time) × (Finish Multiplier)",
+    "multipliers": "Multipliers - Bet1: 1st=×3, 2nd=×2, 3rd=×1 | Bet2: 1st=×2, 2nd=×1, 3rd=×0 | Bet3: 1st=×1, 2nd/3rd=×0",
+    "total": "Total",
+    "final": "Final",
+    "noBet": "No bet"
+  },
+  "players": {
+    "title": "Players",
+    "host": "Host",
+    "hasBet": "✓ Bet",
+    "pending": "⏳ Pending"
+  },
+  "cars": {
+    "black": "Black",
+    "blue": "Blue",
+    "green": "Green",
+    "orange": "Orange",
+    "red": "Red",
+    "yellow": "Yellow"
+  },
+  "common": {
+    "price": "Price",
+    "position": "Position",
+    "bet": "Bet",
+    "finished": "finished",
+    "at": "at",
+    "pos": "pos"
+  },
+  "room": {
+    "roomCode": "Room Code",
+    "leave": "Leave",
+    "phase": "Phase",
+    "youAreHost": "⭐ You are the host",
+    "loading": "Loading room..."
+  },
+  "phases": {
+    "auction": "AUCTION",
+    "betting1": "BETTING 1",
+    "betting2": "BETTING 2",
+    "betting3": "BETTING 3",
+    "finished": "FINISHED"
+  }
+}
